@@ -1,0 +1,324 @@
+[
+  {
+    "name": "OTICA SAO BENTO",
+    "address": "RUA NOVE DE JULHO, 823",
+    "lat": -22.216189,
+    "lng": -49.945663,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53812405"
+  },
+  {
+    "name": "Otica dinamica",
+    "address": "RUA NOVE DE JULHO 1432",
+    "lat": -22.218549,
+    "lng": -49.950906,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808884"
+  },
+  {
+    "name": "RELOJOARIA ONIX",
+    "address": "RUA NOVE DE JULHO 1040",
+    "lat": -22.217381,
+    "lng": -49.947271,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53812863"
+  },
+  {
+    "name": "PRISCILA NUNES",
+    "address": "RUA NOVE DE JULHO, 497",
+    "lat": -22.214562,
+    "lng": -49.94303,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53819370"
+  },
+  {
+    "name": "99 OTICAS MARILIA LTDA",
+    "address": "RUA NOVE DE JULHO 1081",
+    "lat": -22.217411,
+    "lng": -49.947773,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53813283"
+  },
+  {
+    "name": "OPTICA EXATA",
+    "address": "RUA NOVE DE JULHO 1221",
+    "lat": -22.217474,
+    "lng": -49.94911,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808301"
+  },
+  {
+    "name": "DANGELA'S CONFECCOES LTDA",
+    "address": "RUA NOVE DE JULHO 1384",
+    "lat": -22.218202,
+    "lng": -49.950514,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808868"
+  },
+  {
+    "name": "OPTICA ROBERTO",
+    "address": "RUA NOVE DE JULHO 1111",
+    "lat": -22.217441,
+    "lng": -49.947998,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53813278"
+  },
+  {
+    "name": "MD UNIOTICA - OTICA E RELOJOARIA",
+    "address": "RUA NOVE DE JULHO 1097",
+    "lat": -22.21743,
+    "lng": -49.947921,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53813280"
+  },
+  {
+    "name": "OTICA VEJA DE MARILIA LTDA",
+    "address": "RUA NOVE DE JULHO 1139",
+    "lat": -22.217451,
+    "lng": -49.948361,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53813269"
+  },
+  {
+    "name": "OTICA NOVE DE JULHO",
+    "address": "RUA NOVE DE JULHO 1156 LOJA 4",
+    "lat": -22.217435,
+    "lng": -49.948468,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=202223879"
+  },
+  {
+    "name": "RT Cosméticos",
+    "address": "RUA PRUDENTE DE MORAIS 399",
+    "lat": -22.217971,
+    "lng": -49.952593,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=93605319"
+  },
+  {
+    "name": "Via 15",
+    "address": "RUA PRUDENTE DE MORAIS 252",
+    "lat": -22.217519,
+    "lng": -49.951323,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=222303302"
+  },
+  {
+    "name": "Cantinho Indiano",
+    "address": "RUA QUATRO DE ABRIL 387 LJ 2",
+    "lat": -22.217096,
+    "lng": -49.94972,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808176"
+  },
+  {
+    "name": "Optica Marilia",
+    "address": "RUA PRUDENTE DE MORAIS 43",
+    "lat": -22.216897,
+    "lng": -49.949477,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808210"
+  },
+  {
+    "name": "Optica Feres",
+    "address": "RUA PRUDENTE DE MORAIS 116",
+    "lat": -22.217143,
+    "lng": -49.950063,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=222303317"
+  },
+  {
+    "name": "G.F COMERCIO OTICO LTDA- Otica Ellegance",
+    "address": "RUA PRUDENTE DE MORAIS 126",
+    "lat": -22.217201,
+    "lng": -49.950172,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=222303318"
+  },
+  {
+    "name": "Ótica Fralli",
+    "address": "RUA QUATRO DE ABRIL 352*",
+    "lat": -22.217273,
+    "lng": -49.949542,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808266"
+  },
+  {
+    "name": "Otica Carol",
+    "address": "RUA QUATRO DE ABRIL 341",
+    "lat": -22.217363,
+    "lng": -49.949419,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808153"
+  },
+  {
+    "name": "Otica Brasileira",
+    "address": "RUA QUATRO DE ABRIL 340",
+    "lat": -22.217375,
+    "lng": -49.949524,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808264"
+  },
+  {
+    "name": "ALBA",
+    "address": "RUA QUATRO DE ABRIL 331",
+    "lat": -22.217486,
+    "lng": -49.949389,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808155"
+  },
+  {
+    "name": "Censura Livre",
+    "address": "RUA QUATRO DE ABRIL 363",
+    "lat": -22.217224,
+    "lng": -49.94948,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808151"
+  },
+  {
+    "name": "Imagem intima",
+    "address": "RUA QUATRO DE ABRIL 337",
+    "lat": -22.217417,
+    "lng": -49.949463,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808154"
+  },
+  {
+    "name": "TRINYS E SO DANCA",
+    "address": "RUA QUATRO DE ABRIL 481",
+    "lat": -22.21621,
+    "lng": -49.949747,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808004"
+  },
+  {
+    "name": "Otica Marli",
+    "address": "RUA QUATRO DE ABRIL 320",
+    "lat": -22.217393,
+    "lng": -49.949281,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808262"
+  },
+  {
+    "name": "OPTICA SAO CARLOS",
+    "address": "RUA QUATRO DE ABRIL 475",
+    "lat": -22.216211,
+    "lng": -49.949823,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808007"
+  },
+  {
+    "name": "FRUTIPOLPA MARILIA",
+    "address": "RUA DOM PEDRO II 688",
+    "lat": -22.2206,
+    "lng": -49.954891,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53809781"
+  },
+  {
+    "name": "OPTICA LIDER",
+    "address": "RUA DOM PEDRO II 209",
+    "lat": -22.219096,
+    "lng": -49.950538,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808526"
+  },
+  {
+    "name": "JR.PRESENTES DE MARILIA LTDA",
+    "address": "RUA DOM PEDRO II 190",
+    "lat": -22.219002,
+    "lng": -49.950441,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808999"
+  },
+  {
+    "name": "Dul Pé calçados",
+    "address": "RUA SAO LUIZ 625",
+    "lat": -22.217809,
+    "lng": -49.950092,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808858"
+  },
+  {
+    "name": "Viccium Moda",
+    "address": "RUA SAO LUIZ 483",
+    "lat": -22.219052,
+    "lng": -49.949711,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808535"
+  },
+  {
+    "name": "Casa dos descontos",
+    "address": "RUA SAO LUIZ 1110",
+    "lat": -22.213645,
+    "lng": -49.951946,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53810569"
+  },
+  {
+    "name": "CIRANDINHA CALCADOS",
+    "address": "RUA SAO LUIZ 990",
+    "lat": -22.214813,
+    "lng": -49.95147,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807716"
+  },
+  {
+    "name": "FRANCINE CONFECCOES",
+    "address": "RUA SAO LUIZ 944",
+    "lat": -22.215219,
+    "lng": -49.95138,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=222303197"
+  },
+  {
+    "name": "Frequência Masculina",
+    "address": "RUA SAO LUIZ 595",
+    "lat": -22.218206,
+    "lng": -49.950161,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808928"
+  },
+  {
+    "name": "Otica São bento",
+    "address": "RUA SAO LUIZ 950",
+    "lat": -22.215091,
+    "lng": -49.951387,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807711"
+  },
+  {
+    "name": "OTICA MARIZA",
+    "address": "RUA SAO LUIZ 571",
+    "lat": -22.21844,
+    "lng": -49.950089,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808919"
+  },
+  {
+    "name": "FOLHEADOS OMY",
+    "address": "RUA SAO LUIZ 611",
+    "lat": -22.218137,
+    "lng": -49.950759,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808863"
+  },
+  {
+    "name": "VITRINE MODAS E AVIAMENTOS",
+    "address": "RUA SAO LUIZ 928",
+    "lat": -22.215308,
+    "lng": -49.951268,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807713"
+  },
+  {
+    "name": "VITONI CALCADOS LTDA",
+    "address": "RUA SAO LUIZ 679",
+    "lat": -22.217451,
+    "lng": -49.950465,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53808851"
+  },
+  {
+    "name": "CASA ONO",
+    "address": "RUA SAO LUIZ 979",
+    "lat": -22.214902,
+    "lng": -49.9514,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=222303175"
+  },
+  {
+    "name": "Nuage",
+    "address": "RUA SAO LUIZ, 781",
+    "lat": -22.216572,
+    "lng": -49.95065,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807977"
+  },
+  {
+    "name": "TANGER",
+    "address": "RUA SAO LUIZ, 743",
+    "lat": -22.216743,
+    "lng": -49.95059,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807979"
+  },
+  {
+    "name": "Lojas Cem",
+    "address": "RUA SAO LUIZ, 943",
+    "lat": -22.215137,
+    "lng": -49.951243,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53807669"
+  },
+  {
+    "name": "Tecie",
+    "address": "",
+    "lat": -22.220834,
+    "lng": -49.951876,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=93605603"
+  },
+  {
+    "name": "OTICAS DINIZ",
+    "address": "AVENIDA SAMPAIO VIDAL 714",
+    "lat": -22.216702,
+    "lng": -49.948972,
+    "source": "https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/Municipio/35_SP/3529005_MARILIA.zip#COD_UNICO_ENDERECO=53812858"
+  }
+]

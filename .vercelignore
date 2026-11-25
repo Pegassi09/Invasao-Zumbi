@@ -1,0 +1,10 @@
+.git
+.local
+.env*
+*.xlsx
+*.csv
+docs
+tests
+e2e
+test-results
+playwright-report

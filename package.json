@@ -13,7 +13,8 @@
     "test": "tsx --test tests/*.test.ts",
     "importar": "tsx --env-file-if-exists=.env.local scripts/import.ts",
     "admin": "tsx --env-file-if-exists=.env.local scripts/admin.ts",
-    "test:e2e": "tsx e2e/portal.ts"
+    "test:e2e": "tsx e2e/portal.ts",
+    "test:publicado": "tsx e2e/publicado.ts"
   },
   "dependencies": {
     "@fontsource/barlow-condensed": "^5.3.0",

@@ -78,3 +78,5 @@ TEST_MONGODB_URI="mongodb://127.0.0.1:27017/?replicaSet=rs0" PLANILHA_ORIGINAL="
 ```
 
 O teste de ponta a ponta cria um banco exclusivo de QA na réplica local, inicia o build de produção e remove apenas sua própria base ao finalizar. Valida todas as URLs do sitemap da carga original, catálogo, filtros, localização, favoritos, compartilhamento, formulários administrativos, uploads, alterações, importação repetida, concorrência entre prévia e confirmação, auditoria, passaporte e rejeição de solicitações inválidas. A verificação dos mosaicos do mapa precisa de conectividade com o OpenStreetMap.
+
+Para conferir o domínio público, execute `PORTAL_URL=https://seu-dominio npm run test:publicado`. O teste percorre o sitemap e usa um navegador móvel com os mosaicos reais do mapa. Para incluir o login e a leitura do painel, informe `PORTAL_ADMIN_EMAIL` e `PORTAL_ADMIN_PASSWORD_FILE` apontando para um arquivo privado fora do Git.

@@ -1,6 +1,7 @@
 import type { NextConfig } from 'next';
 const config: NextConfig = {
   poweredByHeader: false,
+  allowedDevOrigins: ['192.168.20.16'],
   serverExternalPackages: ['mongodb', 'exceljs', 'sharp'],
   async headers() {
     return [
